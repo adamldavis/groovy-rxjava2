@@ -1,0 +1,4 @@
+moduleName=groovy-rxjava2
+moduleVersion=1.0-alpha1
+extensionClasses=com.adamldavis.grx2.GroovyRxJavaExtensions
+staticExtensionClasses=
